@@ -1,4 +1,4 @@
-# DevOps Lab - Week 3 - Main Branch Update
+# DevOps Lab - Week 3 - Merged Header (Main + Conflict Demo)
 def greet():
     print("Welcome to DevOps Lab")
 
